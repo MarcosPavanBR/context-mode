@@ -2,7 +2,7 @@
 
 Biblioteca de **referências externas** para avaliar e reutilizar em projetos futuros. Esta pasta é independente do código do Context Mode.
 
-> Os cinco projetos abaixo **não foram instalados, clonados nem executados**. Os links apontam para os repositórios dos autores. Antes de incorporar código, confira licença, versões, dependências e permissões.
+> Os seis projetos abaixo **não foram instalados, clonados nem executados**. Os links apontam para os repositórios dos autores. Antes de incorporar código, confira licença, versões, dependências e permissões.
 
 | Projeto | Repositório | Uso previsto |
 |---|---|---|
@@ -11,6 +11,7 @@ Biblioteca de **referências externas** para avaliar e reutilizar em projetos fu
 | Anthropic Knowledge Work Plugins | https://github.com/anthropics/knowledge-work-plugins | Fluxos de trabalho de vendas, finanças, jurídico, marketing e operações |
 | Claude Quickstarts | https://github.com/anthropics/claude-quickstarts | Exemplos de agentes e integrações executáveis |
 | Addy Osmani Agent Skills | https://github.com/addyosmani/agent-skills | Especificações, desenvolvimento, revisão, testes e entrega |
+| PixelRAG | https://github.com/StarTrail-org/PixelRAG | Recuperação visual de páginas e PDFs, preservando tabelas, gráficos e layout para uso com IA |
 
 ## Organização
 - [Catálogo e avaliação](CATALOGO.md): detalhes, aplicações e critérios.
